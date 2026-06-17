@@ -20,7 +20,7 @@
 
 ## Skills & Technologies
 
-html,css,py,django,git,github,react,flask,ai,mysql,postgres,postman,docker,sqlite,tailwind,c,js,linux,ubuntu
+[![My Skills](https://skillicons.dev/icons?i=django,py,html,css,git,github,react,flask,ai,mysql,postgres,postman,docker,sqlite,tailwind,js,c,linux,ubuntu&perline=10)](https://skillicons.dev)
 
 ## GitHub Stats
 
@@ -30,6 +30,8 @@ html,css,py,django,git,github,react,flask,ai,mysql,postgres,postman,docker,sqlit
 - Followers: **0**  
 - Following: **0**
 
-![Followers Badge](https://img.shields.io/badge/followers-0-blue)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=tusharsingh00&show_icons=true&theme=default)
 
-(If you prefer different themes or additional badges — e.g., streaks, contribution graph — they can be added.)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tusharsingh00&layout=compact&theme=default)
+
+
