@@ -30,10 +30,6 @@ html,css,py,django,git,github,react,flask,ai,mysql,postgres,postman,docker,sqlit
 - Followers: **0**  
 - Following: **0**
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=tusharsingh00&show_icons=true&theme=default)
-
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tusharsingh00&layout=compact&theme=default)
-
 ![Followers Badge](https://img.shields.io/badge/followers-0-blue)
 
 (If you prefer different themes or additional badges — e.g., streaks, contribution graph — they can be added.)
